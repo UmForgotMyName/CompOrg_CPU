@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Mon Apr 08 21:11:09 2024
+# Process ID: 42216
+# Current directory: D:/ENGG 3380/ENGG3380_CPU_P2/ENGG3380_CPU_P2.sim/sim_1/behav
+# Command line: wbtcv.exe -mode batch -source D:/ENGG 3380/ENGG3380_CPU_P2/ENGG3380_CPU_P2.sim/sim_1/behav/xsim.dir/CPU_3380_Test_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/ENGG 3380/ENGG3380_CPU_P2/ENGG3380_CPU_P2.sim/sim_1/behav/webtalk.log
+# Journal file: D:/ENGG 3380/ENGG3380_CPU_P2/ENGG3380_CPU_P2.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source D:/ENGG -notrace

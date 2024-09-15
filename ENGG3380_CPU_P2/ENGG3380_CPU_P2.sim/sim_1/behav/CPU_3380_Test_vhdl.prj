@@ -1,0 +1,19 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/and_gate2.vhd"
+vhdl xil_defaultlib  "../../../ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/MUX312.vhd"
+vhdl xil_defaultlib  "../../../ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/or_gate2.vhd"
+vhdl xil_defaultlib  "../../../ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/full_adder2.vhd"
+vhdl xil_defaultlib  "../../../ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/ALU4.vhd"
+vhdl xil_defaultlib  "../../../ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/PC_REG.vhd"
+vhdl xil_defaultlib  "../../../ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/mux3_11.vhd"
+vhdl xil_defaultlib  "../../../ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/Memory.vhd"
+vhdl xil_defaultlib  "../../../ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/Signextend1.vhd"
+vhdl xil_defaultlib  "../../../ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/Registers2.vhd"
+vhdl xil_defaultlib  "../../../ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/ALU_16Bit3.vhd"
+vhdl xil_defaultlib  "../../../ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/Control1.vhd"
+vhdl xil_defaultlib  "../../../ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/mux2_11.vhd"
+vhdl xil_defaultlib  "../../../ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/CPU_33802.vhd"
+vhdl xil_defaultlib  "../../../ENGG3380_CPU_P2.srcs/sim_1/imports/CPU_lab6/CPU_3380_Test11.vhd"
+
+# Do not sort compile order
+nosort

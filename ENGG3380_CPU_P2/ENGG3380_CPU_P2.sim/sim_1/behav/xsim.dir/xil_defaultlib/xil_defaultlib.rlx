@@ -1,0 +1,19 @@
+0.6
+2016.3
+Oct 10 2016
+19:46:48
+D:/ENGG 3380/ENGG3380_CPU_P2/ENGG3380_CPU_P2.srcs/sim_1/imports/CPU_lab6/CPU_3380_Test11.vhd,1711709746,vhdl,,,,cpu_3380_test,,,,,,,,
+D:/ENGG 3380/ENGG3380_CPU_P2/ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/ALU4.vhd,1711338782,vhdl,,,,alu,,,,,,,,
+D:/ENGG 3380/ENGG3380_CPU_P2/ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/ALU_16Bit3.vhd,1711686836,vhdl,,,,alu_16bit,,,,,,,,
+D:/ENGG 3380/ENGG3380_CPU_P2/ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/CPU_33802.vhd,1712605552,vhdl,D:/ENGG 3380/ENGG3380_CPU_P2/ENGG3380_CPU_P2.srcs/sim_1/imports/CPU_lab6/CPU_3380_Test11.vhd,,,cpu_3380,,,,,,,,
+D:/ENGG 3380/ENGG3380_CPU_P2/ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/Control1.vhd,1711964970,vhdl,,,,control,,,,,,,,
+D:/ENGG 3380/ENGG3380_CPU_P2/ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/MUX312.vhd,1711338824,vhdl,,,,mux31,,,,,,,,
+D:/ENGG 3380/ENGG3380_CPU_P2/ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/Memory.vhd,1711702796,vhdl,,,,memory,,,,,,,,
+D:/ENGG 3380/ENGG3380_CPU_P2/ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/PC_REG.vhd,1711965012,vhdl,,,,pc_reg,,,,,,,,
+D:/ENGG 3380/ENGG3380_CPU_P2/ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/Registers2.vhd,1711338842,vhdl,,,,registers,,,,,,,,
+D:/ENGG 3380/ENGG3380_CPU_P2/ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/Signextend1.vhd,1711338846,vhdl,,,,signextend,,,,,,,,
+D:/ENGG 3380/ENGG3380_CPU_P2/ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/and_gate2.vhd,1711338784,vhdl,,,,and_gate,,,,,,,,
+D:/ENGG 3380/ENGG3380_CPU_P2/ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/full_adder2.vhd,1711338792,vhdl,,,,full_adder,,,,,,,,
+D:/ENGG 3380/ENGG3380_CPU_P2/ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/mux2_11.vhd,1711338808,vhdl,,,,mux2_1,,,,,,,,
+D:/ENGG 3380/ENGG3380_CPU_P2/ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/mux3_11.vhd,1711338810,vhdl,,,,mux3_1,,,,,,,,
+D:/ENGG 3380/ENGG3380_CPU_P2/ENGG3380_CPU_P2.srcs/sources_1/imports/CPU_lab6/or_gate2.vhd,1711338826,vhdl,,,,or_gate,,,,,,,,

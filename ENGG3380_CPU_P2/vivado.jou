@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Fri Mar 29 18:54:44 2024
+# Process ID: 16344
+# Current directory: D:/ENGG 3380/ENGG3380_CPU_P2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent29996 D:\ENGG 3380\ENGG3380_CPU_P2\ENGG3380_CPU_P2.xpr
+# Log file: D:/ENGG 3380/ENGG3380_CPU_P2/vivado.log
+# Journal file: D:/ENGG 3380/ENGG3380_CPU_P2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/ENGG 3380/ENGG3380_CPU_P2/ENGG3380_CPU_P2.xpr}
